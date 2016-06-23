@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PACKT_Scenes/Chapter1_END.unity
+  isLoaded: 1
+  isActive: 1

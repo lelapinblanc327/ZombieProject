@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 37f6e38cb379c594fb4ecece2062a9e8
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: IK_L-Leg
+    100002: IK_R-Leg
+    100004: zombie_f_BoobLeft03
+    100006: zombie_f_BoobRight01
+    100008: zombie_f_Head
+    100010: zombie_f_Jaw
+    100012: zombie_f_Jaw_Nub
+    100014: zombie_f_L-Calf
+    100016: zombie_f_L-Clavicle
+    100018: zombie_f_L-Foot
+    100020: zombie_f_L-Forearm
+    100022: zombie_f_L-Hand
+    100024: zombie_f_L-Heel
+    100026: zombie_f_L-Heel_Nub
+    100028: zombie_f_L-Index
+    100030: zombie_f_L-Index1
+    100032: zombie_f_L-Index2
+    100034: zombie_f_L-Little
+    100036: zombie_f_L-Little1
+    100038: zombie_f_L-Little2
+    100040: zombie_f_L-Middle
+    100042: zombie_f_L-Middle1
+    100044: zombie_f_L-Middle2
+    100046: zombie_f_L-Ring
+    100048: zombie_f_L-Ring1
+    100050: zombie_f_L-Ring2
+    100052: zombie_f_L-Thigh
+    100054: zombie_f_L-Thumb
+    100056: zombie_f_L-Thumb1
+    100058: zombie_f_L-Thumb2
+    100060: zombie_f_L-Toe
+    100062: zombie_f_L-UpperArm
+    100064: zombie_f_L-Wrist
+    100066: zombie_f_Neck
+    100068: zombie_f_Pelvis
+    100070: zombie_f_Ponytail
+    100072: zombie_f_PonyTail1
+    100074: zombie_f_Ponytail2
+    100076: zombie_f_Ponytail3
+    100078: zombie_f_Ponytail_Nub
+    100080: zombie_f_R-Calf
+    100082: zombie_f_R-Clavicle
+    100084: zombie_f_R-Foot
+    100086: zombie_f_R-Forearm
+    100088: zombie_f_R-Hand
+    100090: zombie_f_R-Heel
+    100092: zombie_f_R-Heel_Nub
+    100094: zombie_f_R-Index
+    100096: zombie_f_R-Index1
+    100098: zombie_f_R-Index2
+    100100: zombie_f_R-Little
+    100102: zombie_f_R-Little1
+    100104: zombie_f_R-Little2
+    100106: zombie_f_R-Middle
+    100108: zombie_f_R-Middle1
+    100110: zombie_f_R-Middle2
+    100112: zombie_f_R-Ring
+    100114: zombie_f_R-Ring1
+    100116: zombie_f_R-Ring2
+    100118: zombie_f_R-Thigh
+    100120: zombie_f_R-Thumb
+    100122: zombie_f_R-Thumb1
+    100124: zombie_f_R-Thumb2
+    100126: zombie_f_R-Toe
+    100128: zombie_f_R-UpperArm
+    100130: zombie_f_R-Wrist
+    100132: zombie_f_Root
+    100134: zombie_f_Spine
+    100136: zombie_f_Spine1
+    100138: zombie_f_Spine2
+    100140: //RootNode
+    400000: IK_L-Leg
+    400002: IK_R-Leg
+    400004: zombie_f_BoobLeft03
+    400006: zombie_f_BoobRight01
+    400008: zombie_f_Head
+    400010: zombie_f_Jaw
+    400012: zombie_f_Jaw_Nub
+    400014: zombie_f_L-Calf
+    400016: zombie_f_L-Clavicle
+    400018: zombie_f_L-Foot
+    400020: zombie_f_L-Forearm
+    400022: zombie_f_L-Hand
+    400024: zombie_f_L-Heel
+    400026: zombie_f_L-Heel_Nub
+    400028: zombie_f_L-Index
+    400030: zombie_f_L-Index1
+    400032: zombie_f_L-Index2
+    400034: zombie_f_L-Little
+    400036: zombie_f_L-Little1
+    400038: zombie_f_L-Little2
+    400040: zombie_f_L-Middle
+    400042: zombie_f_L-Middle1
+    400044: zombie_f_L-Middle2
+    400046: zombie_f_L-Ring
+    400048: zombie_f_L-Ring1
+    400050: zombie_f_L-Ring2
+    400052: zombie_f_L-Thigh
+    400054: zombie_f_L-Thumb
+    400056: zombie_f_L-Thumb1
+    400058: zombie_f_L-Thumb2
+    400060: zombie_f_L-Toe
+    400062: zombie_f_L-UpperArm
+    400064: zombie_f_L-Wrist
+    400066: zombie_f_Neck
+    400068: zombie_f_Pelvis
+    400070: zombie_f_Ponytail
+    400072: zombie_f_PonyTail1
+    400074: zombie_f_Ponytail2
+    400076: zombie_f_Ponytail3
+    400078: zombie_f_Ponytail_Nub
+    400080: zombie_f_R-Calf
+    400082: zombie_f_R-Clavicle
+    400084: zombie_f_R-Foot
+    400086: zombie_f_R-Forearm
+    400088: zombie_f_R-Hand
+    400090: zombie_f_R-Heel
+    400092: zombie_f_R-Heel_Nub
+    400094: zombie_f_R-Index
+    400096: zombie_f_R-Index1
+    400098: zombie_f_R-Index2
+    400100: zombie_f_R-Little
+    400102: zombie_f_R-Little1
+    400104: zombie_f_R-Little2
+    400106: zombie_f_R-Middle
+    400108: zombie_f_R-Middle1
+    400110: zombie_f_R-Middle2
+    400112: zombie_f_R-Ring
+    400114: zombie_f_R-Ring1
+    400116: zombie_f_R-Ring2
+    400118: zombie_f_R-Thigh
+    400120: zombie_f_R-Thumb
+    400122: zombie_f_R-Thumb1
+    400124: zombie_f_R-Thumb2
+    400126: zombie_f_R-Toe
+    400128: zombie_f_R-UpperArm
+    400130: zombie_f_R-Wrist
+    400132: zombie_f_Root
+    400134: zombie_f_Spine
+    400136: zombie_f_Spine1
+    400138: zombie_f_Spine2
+    400140: //RootNode
+    7400000: root_turn
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: root_turn
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: .100000001
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: YRotation
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .270833313
+            value: .0162499994
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .59077394
+            value: .0436249562
+            inSlope: -.0189198181
+            outSlope: -.0189198181
+            tangentMode: 0
+          - time: .789261997
+            value: .00119285844
+            inSlope: -.00123619905
+            outSlope: -.00123619905
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 1
+          postInfinity: 1
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: IK_L-Leg
+        weight: 0
+      - path: IK_R-Leg
+        weight: 0
+      - path: zombie_f_Root
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_L-Thigh
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_L-Thigh/zombie_f_L-Calf
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_L-Thigh/zombie_f_L-Calf/zombie_f_L-Foot
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_L-Thigh/zombie_f_L-Calf/zombie_f_L-Foot/zombie_f_L-Heel
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_L-Thigh/zombie_f_L-Calf/zombie_f_L-Foot/zombie_f_L-Heel/zombie_f_L-Heel_Nub
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_L-Thigh/zombie_f_L-Calf/zombie_f_L-Foot/zombie_f_L-Toe
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_R-Thigh
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_R-Thigh/zombie_f_R-Calf
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_R-Thigh/zombie_f_R-Calf/zombie_f_R-Foot
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_R-Thigh/zombie_f_R-Calf/zombie_f_R-Foot/zombie_f_R-Heel
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_R-Thigh/zombie_f_R-Calf/zombie_f_R-Foot/zombie_f_R-Heel/zombie_f_R-Heel_Nub
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_R-Thigh/zombie_f_R-Calf/zombie_f_R-Foot/zombie_f_R-Toe
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_BoobLeft03
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_BoobRight01
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Jaw
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Jaw/zombie_f_Jaw_Nub
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Ponytail
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Ponytail/zombie_f_PonyTail1
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Ponytail/zombie_f_PonyTail1/zombie_f_Ponytail2
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Ponytail/zombie_f_PonyTail1/zombie_f_Ponytail2/zombie_f_Ponytail3
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_Head/zombie_f_Ponytail/zombie_f_PonyTail1/zombie_f_Ponytail2/zombie_f_Ponytail3/zombie_f_Ponytail_Nub
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Index
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Index/zombie_f_L-Index1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Index/zombie_f_L-Index1/zombie_f_L-Index2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Little
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Little/zombie_f_L-Little1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Little/zombie_f_L-Little1/zombie_f_L-Little2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Middle
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Middle/zombie_f_L-Middle1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Middle/zombie_f_L-Middle1/zombie_f_L-Middle2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Ring
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Ring/zombie_f_L-Ring1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Ring/zombie_f_L-Ring1/zombie_f_L-Ring2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Thumb
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Thumb/zombie_f_L-Thumb1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Hand/zombie_f_L-Thumb/zombie_f_L-Thumb1/zombie_f_L-Thumb2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_L-Clavicle/zombie_f_L-UpperArm/zombie_f_L-Forearm/zombie_f_L-Wrist
+        weight: 0
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Index
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Index/zombie_f_R-Index1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Index/zombie_f_R-Index1/zombie_f_R-Index2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Little
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Little/zombie_f_R-Little1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Little/zombie_f_R-Little1/zombie_f_R-Little2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Middle
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Middle/zombie_f_R-Middle1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Middle/zombie_f_R-Middle1/zombie_f_R-Middle2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Ring
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Ring/zombie_f_R-Ring1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Ring/zombie_f_R-Ring1/zombie_f_R-Ring2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Thumb
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Thumb/zombie_f_R-Thumb1
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Hand/zombie_f_R-Thumb/zombie_f_R-Thumb1/zombie_f_R-Thumb2
+        weight: 1
+      - path: zombie_f_Root/zombie_f_Pelvis/zombie_f_Spine/zombie_f_Spine1/zombie_f_Spine2/zombie_f_Neck/zombie_f_R-Clavicle/zombie_f_R-UpperArm/zombie_f_R-Forearm/zombie_f_R-Wrist
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: zombie_f_Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Thumb
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Thumb1
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Thumb2
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Index
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Index1
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Index2
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Middle
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Middle1
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Middle2
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Ring
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Ring1
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Ring2
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Little
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Little1
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_L-Little2
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Thumb
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Thumb1
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Thumb2
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Index
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Index1
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Index2
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Middle
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Middle1
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Middle2
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Ring
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Ring1
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Ring2
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Little
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Little1
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zombie_f_R-Little2
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: zombie_root_turn(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK_L-Leg
+      position: {x: -.0686251372, y: .0937687457, z: -.0398166627}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: .0253999997, y: .0253999997, z: .0253999997}
+      transformModified: 1
+    - name: IK_R-Leg
+      position: {x: .0687612966, y: .0937688425, z: -.0398153067}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: .0253999997, y: .0253999997, z: .0253999997}
+      transformModified: 1
+    - name: zombie_f_Root
+      position: {x: -2.54000003e-08, y: 1.06649947, z: -.00109839765}
+      rotation: {x: -.49999997, y: .50000006, z: .49999997, w: .50000006}
+      scale: {x: .0253999997, y: .0253999997, z: .0253999997}
+      transformModified: 1
+    - name: zombie_f_Pelvis
+      position: {x: .480755985, y: 4.20291144e-08, z: 0}
+      rotation: {x: -.499999583, y: .500000417, z: .499999583, w: .500000417}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-Thigh
+      position: {x: 3.81469727e-06, y: 8.5234642e-06, z: 3.45424676}
+      rotation: {x: -.00754250912, y: .999927938, z: 9.69608082e-05, w: -.00934202317}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-Calf
+      position: {x: -18.3878727, y: 9.68575478e-07, z: 4.29153442e-06}
+      rotation: {x: -.000163131583, y: .00372275151, z: .0440746807, w: .999021292}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Foot
+      position: {x: -18.101635, y: .00102365017, z: -.0633137226}
+      rotation: {x: .0104113119, y: -.0250281543, z: -.322296441, w: .946250618}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Heel
+      position: {x: -5.21532917, y: -3.57627869e-07, z: 0}
+      rotation: {x: -.00686840154, y: -.00727710593, z: .844643772, w: .535235226}
+      scale: {x: 1.00000024, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_L-Heel_Nub
+      position: {x: -4.02936172, y: -1.25169754e-06, z: 1.90734863e-06}
+      rotation: {x: .544860244, y: -.450502843, z: -.475501865, w: .523519456}
+      scale: {x: .999999821, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Toe
+      position: {x: -5.21532869, y: -3.57627869e-07, z: 0}
+      rotation: {x: .00503958203, y: -.0133637283, z: -.485463798, w: .874140084}
+      scale: {x: 1.41993916, y: .999999881, z: .999999583}
+      transformModified: 1
+    - name: zombie_f_R-Thigh
+      position: {x: -3.81469727e-06, y: -2.50339508e-06, z: -3.45424318}
+      rotation: {x: -.00754500041, y: .999928236, z: -9.9492092e-05, w: .00930364057}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Calf
+      position: {x: -18.3878956, y: 1.50501728e-06, z: 1.1920929e-06}
+      rotation: {x: .000160540192, y: -.00365935219, z: .0440800525, w: .999021292}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Foot
+      position: {x: -18.1014996, y: .00102591515, z: .0635976791}
+      rotation: {x: -.0111626564, y: .0242659878, z: -.323053122, w: .946003854}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_R-Heel
+      position: {x: -5.19851446, y: -.027290225, z: -.017154932}
+      rotation: {x: -.0227123722, y: -.0401678085, z: .844278932, w: .533913732}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Heel_Nub
+      position: {x: -3.97760057, y: 4.17232513e-07, z: -1.43051147e-06}
+      rotation: {x: .553539515, y: -.449682802, z: -.476524591, w: .514104784}
+      scale: {x: .999999821, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Toe
+      position: {x: -5.17301607, y: -.0107293725, z: .0149374008}
+      rotation: {x: -.00429955777, y: .0169137418, z: -.498640627, w: .866633177}
+      scale: {x: 1.4199301, y: 1.00000036, z: .999999762}
+      transformModified: 1
+    - name: zombie_f_Spine
+      position: {x: -3.69625092, y: .653812885, z: 2.70269993e-06}
+      rotation: {x: -2.09166774e-06, y: 3.76971542e-07, z: -.0300643872, w: .999547958}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: zombie_f_Spine1
+      position: {x: -5.53753281, y: -.00439834595, z: 1.89405e-06}
+      rotation: {x: 8.95506318e-08, y: -3.93655398e-07, z: .114937551, w: .993372738}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_BoobLeft03
+      position: {x: -4.1676178, y: 1.14654636, z: 1.4310025}
+      rotation: {x: -.563774586, y: .426799804, z: .627934873, w: -.325112402}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_BoobRight01
+      position: {x: -4.13184357, y: 1.3546772, z: -1.43099654}
+      rotation: {x: .316865385, y: -.632136166, z: -.419384122, w: .569312871}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_Spine2
+      position: {x: -5.67260742, y: -.00332260132, z: 1.05958134e-06}
+      rotation: {x: 4.56128788e-08, y: -4.17233323e-08, z: .0444910936, w: .999009788}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_Neck
+      position: {x: -4.18723297, y: -.00246143341, z: 1.22992969e-06}
+      rotation: {x: -1.38733114e-07, y: 3.42355861e-07, z: -.169349775, w: .985556006}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: zombie_f_Head
+      position: {x: -3.27877808, y: 9.53674316e-07, z: -3.22555115e-06}
+      rotation: {x: 6.39668372e-07, y: 7.62522205e-08, z: .00117917394, w: .999999344}
+      scale: {x: 1.00000048, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: zombie_f_Jaw
+      position: {x: -1.75202942, y: -4.76837158e-07, z: -4.45565456e-06}
+      rotation: {x: 7.76776915e-07, y: 4.75983995e-07, z: .876739681, w: -.480965227}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: zombie_f_Jaw_Nub
+      position: {x: -4.69890976, y: 0, z: 7.30322063e-06}
+      rotation: {x: 9.41975429e-07, y: 1.22092524e-06, z: .181933373, w: .983310878}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_Ponytail
+      position: {x: -1.75201797, y: 4.76837158e-07, z: 0}
+      rotation: {x: 6.23814287e-07, y: -1.01584499e-06, z: .523293376, w: .852152586}
+      scale: {x: .999999523, y: .999999523, z: 1}
+      transformModified: 1
+    - name: zombie_f_PonyTail1
+      position: {x: -3.75590515, y: 0, z: 7.27595761e-12}
+      rotation: {x: 2.67804126e-07, y: 1.06867071e-06, z: .275256068, w: .961370945}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: zombie_f_Ponytail2
+      position: {x: -1.31337428, y: 0, z: 1.56551323e-07}
+      rotation: {x: 8.37323739e-08, y: 2.44848355e-08, z: .723806083, w: .690003455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_Ponytail3
+      position: {x: -3.30122757, y: 2.38418579e-07, z: 5.43233909e-07}
+      rotation: {x: 3.39709203e-08, y: 2.36011914e-07, z: -.127939537, w: .99178201}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_Ponytail_Nub
+      position: {x: -2.80827713, y: -3.81469727e-06, z: 4.85400506e-07}
+      rotation: {x: -1.77635684e-15, y: -7.10542736e-15, z: -1.26217745e-29, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-Clavicle
+      position: {x: .536827087, y: .608700752, z: 1.1685158}
+      rotation: {x: -.587691545, y: -.178126186, z: .785588384, w: -.0757676587}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-UpperArm
+      position: {x: -4.23303795, y: 9.53674316e-07, z: -1.14440918e-05}
+      rotation: {x: .090393655, y: .10442508, z: .0796527267, w: .987208188}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_L-Forearm
+      position: {x: -9.48750687, y: 4.76837158e-07, z: 3.81469727e-06}
+      rotation: {x: -3.31311623e-09, y: -1.49981894e-08, z: .027565565, w: .99962002}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Hand
+      position: {x: -9.76742935, y: -9.53674316e-07, z: 0}
+      rotation: {x: -.720275164, y: -2.21682441e-08, z: -8.20907928e-08, w: .693688452}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Index
+      position: {x: -3.30325127, y: -.0686721802, z: -.851568699}
+      rotation: {x: .068103984, y: .00753890397, z: -.00486313738, w: .997637928}
+      scale: {x: 1.00000012, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_L-Index1
+      position: {x: -1.00104332, y: -7.62939453e-06, z: 1.1920929e-07}
+      rotation: {x: 1.47486588e-07, y: 1.20458523e-07, z: -.0413498022, w: .999144793}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_L-Index2
+      position: {x: -1.02769279, y: 7.62939453e-06, z: 3.57627869e-07}
+      rotation: {x: -1.86856809e-07, y: 8.21372481e-08, z: -.0793290362, w: .996848524}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: zombie_f_L-Little
+      position: {x: -3.11930275, y: -.284393311, z: 1.01289845}
+      rotation: {x: -.0148045169, y: .0503544137, z: .00653779274, w: .998600304}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_L-Little1
+      position: {x: -.586179733, y: 0, z: 0}
+      rotation: {x: 2.47055887e-08, y: 1.06683302e-07, z: -.0399146602, w: .999203086}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_L-Little2
+      position: {x: -.824630737, y: 0, z: -9.53674316e-07}
+      rotation: {x: 4.26075495e-08, y: 7.73557645e-08, z: -.0209423508, w: .999780715}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-Middle
+      position: {x: -3.33193779, y: -.209259033, z: -.185887337}
+      rotation: {x: .0923650414, y: .0276565682, z: -.0148009574, w: .995231032}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_L-Middle1
+      position: {x: -1.15677643, y: 3.81469727e-06, z: -7.15255737e-07}
+      rotation: {x: 9.19984089e-09, y: -2.3659485e-08, z: -.0411380753, w: .999153495}
+      scale: {x: .999999762, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_L-Middle2
+      position: {x: -1.07933235, y: -7.62939453e-06, z: -9.53674316e-07}
+      rotation: {x: 5.93971272e-08, y: -4.81455764e-08, z: -.0862865821, w: .996270359}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-Ring
+      position: {x: -3.27730942, y: -.347213745, z: .454788685}
+      rotation: {x: .0631527007, y: .0435291901, z: -.00379253784, w: .997046947}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_L-Ring1
+      position: {x: -1.05014992, y: -3.81469727e-06, z: -4.17232513e-07}
+      rotation: {x: -2.30484247e-07, y: -2.89954926e-07, z: -.0381969623, w: .99927026}
+      scale: {x: .999999881, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_L-Ring2
+      position: {x: -.972539902, y: -7.62939453e-06, z: 2.98023224e-07}
+      rotation: {x: 4.40049988e-08, y: 7.49714602e-08, z: 2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Thumb
+      position: {x: -.936958313, y: .555343628, z: -.840315819}
+      rotation: {x: .693791449, y: -.25505659, z: .216052949, w: .637903452}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: zombie_f_L-Thumb1
+      position: {x: -1.82164764, y: 9.53674316e-07, z: 3.81469727e-06}
+      rotation: {x: 6.26027941e-08, y: 1.04557569e-06, z: -.0368254855, w: .999321759}
+      scale: {x: .999999762, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_L-Thumb2
+      position: {x: -.819816589, y: -2.38418579e-07, z: 0}
+      rotation: {x: 5.24304973e-08, y: -1.38971981e-08, z: .0191972107, w: .999815702}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_L-Wrist
+      position: {x: -9.76743126, y: -4.76837158e-07, z: 3.81469727e-06}
+      rotation: {x: -.0284883063, y: -4.3517943e-08, z: -4.22350901e-08, w: .999594152}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Clavicle
+      position: {x: .536823273, y: .608706951, z: -1.16851223}
+      rotation: {x: .587691963, y: .178123921, z: .785588324, w: -.075769648}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-UpperArm
+      position: {x: -4.23303699, y: 0, z: 7.62939453e-06}
+      rotation: {x: -.0903940648, y: -.104424141, z: .0796518922, w: .987208247}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_R-Forearm
+      position: {x: -9.48751068, y: -1.43051147e-06, z: 7.62939453e-06}
+      rotation: {x: -2.41203793e-07, y: 9.76953132e-08, z: .0275698565, w: .999619901}
+      scale: {x: 1, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: zombie_f_R-Hand
+      position: {x: -9.76742554, y: -4.29153442e-06, z: -7.62939453e-06}
+      rotation: {x: .720275164, y: 1.80875233e-07, z: 9.14461822e-08, w: .693688452}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Index
+      position: {x: -3.30325508, y: -.0686683655, z: .851568699}
+      rotation: {x: -.0681040287, y: -.0075393389, z: -.00486355415, w: .997637928}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Index1
+      position: {x: -1.00104523, y: -3.81469727e-06, z: -4.76837158e-07}
+      rotation: {x: 1.46525238e-07, y: -1.26478469e-07, z: -.0413489267, w: .999144852}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Index2
+      position: {x: -1.02768898, y: 0, z: 2.38418579e-07}
+      rotation: {x: 4.19447055e-08, y: -4.81827733e-08, z: -.0793290958, w: .996848524}
+      scale: {x: 1, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: zombie_f_R-Little
+      position: {x: -3.11930084, y: -.28440094, z: -1.01289654}
+      rotation: {x: .0148043791, y: -.0503536612, z: .00653802883, w: .998600304}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Little1
+      position: {x: -.586181641, y: 0, z: 0}
+      rotation: {x: 4.21961559e-08, y: 1.19791501e-08, z: -.0399123281, w: .999203205}
+      scale: {x: .99999994, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Little2
+      position: {x: -.824625015, y: 0, z: 1.43051147e-06}
+      rotation: {x: 4.01890432e-08, y: -3.81029288e-08, z: -.0209425613, w: .999780715}
+      scale: {x: .999999762, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: zombie_f_R-Middle
+      position: {x: -3.33193588, y: -.209259033, z: .185887814}
+      rotation: {x: -.0923649669, y: -.0276567526, z: -.0148011679, w: .995231032}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Middle1
+      position: {x: -1.15677643, y: 3.81469727e-06, z: 1.43051147e-06}
+      rotation: {x: 6.20862792e-08, y: -3.06831427e-09, z: -.0411385782, w: .999153435}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Middle2
+      position: {x: -1.07933235, y: -3.81469727e-06, z: 9.53674316e-07}
+      rotation: {x: -1.94672737e-07, y: -2.42710723e-08, z: -.0862865448, w: .996270359}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_R-Ring
+      position: {x: -3.27731133, y: -.347213745, z: -.454786777}
+      rotation: {x: -.063152492, y: -.043529503, z: -.00379293738, w: .997046947}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Ring1
+      position: {x: -1.05015182, y: 7.62939453e-06, z: -2.98023224e-07}
+      rotation: {x: -2.36732561e-07, y: -2.30617108e-08, z: -.0382015221, w: .999270141}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_R-Ring2
+      position: {x: -.972541809, y: 0, z: 1.1920929e-07}
+      rotation: {x: 5.27361372e-08, y: -4.24333955e-08, z: -8.94069743e-08, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: zombie_f_R-Thumb
+      position: {x: -.93696022, y: .555328369, z: .84031868}
+      rotation: {x: -.693791628, y: .255055279, z: .216052368, w: .637904048}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: zombie_f_R-Thumb1
+      position: {x: -1.82164955, y: -9.53674316e-07, z: 0}
+      rotation: {x: -2.08261753e-07, y: 1.07502103e-06, z: -.0368256271, w: .999321759}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: zombie_f_R-Thumb2
+      position: {x: -.819818497, y: -2.38418579e-07, z: 0}
+      rotation: {x: 4.58394744e-08, y: -5.87354592e-08, z: .019197192, w: .999815702}
+      scale: {x: 1.00000036, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: zombie_f_R-Wrist
+      position: {x: -9.76742744, y: -3.33786011e-06, z: -7.62939453e-06}
+      rotation: {x: .0284882747, y: 7.99941731e-08, z: 1.91513934e-07, w: .999594152}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
